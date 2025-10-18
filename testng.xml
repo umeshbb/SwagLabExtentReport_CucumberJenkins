@@ -3,7 +3,7 @@
 <suite name="Suite">
   <test thread-count="5" name="Test">
   <classes>
-  <class name="Ruuner_package.SwagLabOrder_Runner"></class>
+  <class name="Runner_Package.SwagLabOrder_Runner"></class>
   
   
   
